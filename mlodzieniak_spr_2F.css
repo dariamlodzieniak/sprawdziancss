@@ -1,1 +1,10 @@
-
+body
+{
+background-color: yellow;
+}
+p
+{
+color: green;
+font-size: 30pt;
+text-align: center;
+}
